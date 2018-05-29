@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 云斗龙HyperDragons
 github_username:  hyperdragonsnews
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 
 # Build settings
 markdown: kramdown
